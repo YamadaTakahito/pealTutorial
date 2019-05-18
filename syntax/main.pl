@@ -1,3 +1,8 @@
 #!/usr/bin/perl
-use warnings;
-print("Hello World\n");
+{
+    $a = 1.2;
+    $b= 2;
+$c = $a + $b;
+print($c);
+print("\n")
+}
